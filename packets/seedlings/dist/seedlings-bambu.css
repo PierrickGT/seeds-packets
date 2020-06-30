@@ -17395,26 +17395,6 @@ Breakpoints:
     -l: large
 ---
 */
-.humongoose {
-  font-size: 43px;
-  line-height: 1; }
-  @media screen and (min-width: 320px) {
-    .humongoose {
-      font-size: calc(43px + 182 * ((100vw - 320px) / 880)); } }
-  @media screen and (min-width: 1200px) {
-    .humongoose {
-      font-size: 225px; } }
-
-.ginormous {
-  font-size: 57px;
-  line-height: 1; }
-  @media screen and (min-width: 320px) {
-    .ginormous {
-      font-size: calc(57px + 78 * ((100vw - 320px) / 880)); } }
-  @media screen and (min-width: 1200px) {
-    .ginormous {
-      font-size: 135px; } }
-
 .f100 {
   font-size: 0.61111rem;
   line-height: 1.696969696969697; }
@@ -17436,72 +17416,32 @@ Breakpoints:
   line-height: 1.3968253968253967; }
 
 .f600 {
-  font-size: 1.16667rem;
-  line-height: 1.3968253968253967; }
-  @media screen and (min-width: 30rem) {
-    .f600 {
-      font-size: 1.33333rem;
-      line-height: 1.3333333333333333; } }
-
-.f700 {
   font-size: 1.33333rem;
   line-height: 1.3333333333333333; }
-  @media screen and (min-width: 30rem) {
-    .f700 {
-      font-size: 1.77778rem;
-      line-height: 1.25; } }
 
-.f800 {
+.f700 {
   font-size: 1.77778rem;
   line-height: 1.25; }
-  @media screen and (min-width: 30rem) {
-    .f800 {
-      font-size: 2.38889rem;
-      line-height: 1.1782945736434107; } }
+
+.f800 {
+  font-size: 2.38889rem;
+  line-height: 1.1782945736434107; }
 
 .f900 {
-  font-size: 2.38889rem;
-  line-height: 1.1782945736434107; }
-  @media screen and (min-width: 30rem) {
-    .f900 {
-      font-size: 3.16667rem;
-      line-height: 1.1228070175438596; } }
+  font-size: 3.16667rem;
+  line-height: 1.1228070175438596; }
 
 .f1000 {
-  font-size: 2.38889rem;
-  line-height: 1.1782945736434107; }
-  @media screen and (min-width: 30rem) {
-    .f1000 {
-      font-size: 3.16667rem;
-      line-height: 1.1228070175438596; } }
-  @media screen and (min-width: 30rem) {
-    .f1000 {
-      font-size: 4.22222rem;
-      line-height: 1.0526315789473684; } }
+  font-size: 4.22222rem;
+  line-height: 1.0526315789473684; }
 
 .f1100 {
-  font-size: 3.16667rem;
-  line-height: 1.1228070175438596; }
-  @media screen and (min-width: 30rem) and (max-width: 60rem) {
-    .f1100 {
-      font-size: 4.22222rem;
-      line-height: 1.0526315789473684; } }
-  @media screen and (min-width: 60rem) {
-    .f1100 {
-      font-size: 5.61111rem;
-      line-height: 1.0033003300330032; } }
+  font-size: 5.61111rem;
+  line-height: 0.9703; }
 
 .f1200 {
-  font-size: 3.16667rem;
-  line-height: 1.1228070175438596; }
-  @media screen and (min-width: 30rem) and (max-width: 60rem) {
-    .f1200 {
-      font-size: 4.22222rem;
-      line-height: 1.0526315789473684; } }
-  @media screen and (min-width: 60rem) {
-    .f1200 {
-      font-size: 7.5rem;
-      line-height: 0.928395061728395; } }
+  font-size: 7.5rem;
+  line-height: 1.00741; }
 
 @media screen and (min-width: 30rem) {
   .f100-ns {
